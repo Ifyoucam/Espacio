@@ -1,0 +1,77 @@
+[01:33:27] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.18.2
+[01:33:28] [main/INFO]: Loading 14 mods:
+	- fabricloader 0.18.2
+	   \-- mixinextras 0.5.0
+	- java 21
+	- minecraft 1.21.11
+	- skinrestorer 2.4.3+1.21.11-fabric
+	   \-- org_mineskin_java-client 3.0.6-SNAPSHOT
+	- voicechat 1.21.11-2.6.10
+	   |-- fabric-api-base 1.0.5+4ebb5c0853
+	   |-- fabric-command-api-v2 2.4.6+4ebb5c0853
+	   |-- fabric-key-binding-api-v1 1.1.7+4fc5413f53
+	   |-- fabric-lifecycle-events-v1 2.6.15+4ebb5c0853
+	   |-- fabric-networking-api-v1 5.1.4+4ebb5c0853
+	   |-- fabric-rendering-v1 16.2.5+1fb1cde953
+	   |-- fabric-resource-loader-v0 3.3.4+4fc5413f53
+	   |-- fabric-resource-loader-v1 1.0.10+78c8b46653
+	   \-- voicechat_api 2.6.0
+[01:33:28] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Espacio/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[01:33:28] [main/INFO]: Compatibility level set to JAVA_21
+[01:33:28] [main/WARN]: Reference map 'skinrestorer.refmap.json' for skinrestorer.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:33:28] [main/WARN]: Reference map 'skinrestorer.refmap.json' for skinrestorer.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:33:28] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[01:33:34] [main/WARN]: fabric-api is not loaded, SkinShuffle compatibility will not be available
+[01:33:34] [main/INFO]: [voicechat] Compatibility version 20
+[01:33:34] [main/INFO]: [voicechat] Loading plugins
+[01:33:34] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[01:33:34] [main/INFO]: [voicechat] Initializing plugins
+[01:33:34] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[01:33:34] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[01:33:36] [main/INFO]: Loaded 1470 recipes
+[01:33:36] [main/INFO]: Loaded 1584 advancements
+[01:33:36] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[01:33:36] [Server thread/INFO]: Loading properties
+[01:33:36] [Server thread/INFO]: Default game type: SURVIVAL
+[01:33:36] [Server thread/INFO]: Generating keypair
+[01:33:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:33:36] [Server thread/INFO]: Preparing level "world"
+[01:33:36] [Server thread/INFO]: Loading 0 persistent chunks...
+[01:33:36] [Server thread/INFO]: Preparing spawn area: 100%
+[01:33:36] [Server thread/INFO]: Time elapsed: 15 ms
+[01:33:36] [Server thread/INFO]: Done (0.406s)! For help, type "help"
+[01:33:36] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'pay-hans.gl.at.ply.gg:16150'
+[01:33:36] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 16150
+[01:33:41] [User Authenticator #1/INFO]: UUID of player IfYouCam is 58cfdd1a-30de-4571-9714-ea2576c40487
+[01:33:44] [Server thread/INFO]: IfYouCam[/127.171.255.142:39865] logged in with entity id 66 at (-388.0989776559326, 124.0, -364.213312622275)
+[01:33:44] [Server thread/INFO]: IfYouCam joined the game
+[01:33:45] [Server thread/INFO]: [voicechat] Received secret request of IfYouCam (20)
+[01:33:45] [Server thread/INFO]: [voicechat] Sent secret to IfYouCam
+[01:33:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 58cfdd1a-30de-4571-9714-ea2576c40487
+[01:33:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 58cfdd1a-30de-4571-9714-ea2576c40487
+[01:33:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player IfYouCam (58cfdd1a-30de-4571-9714-ea2576c40487) successfully connected to voice chat
+[01:34:21] [Server thread/INFO]: IfYouCam lost connection: Disconnected
+[01:34:21] [Server thread/INFO]: IfYouCam left the game
+[01:34:21] [Server thread/INFO]: [voicechat] Disconnecting client IfYouCam
+[01:34:25] [User Authenticator #2/INFO]: UUID of player IfYouCam is 58cfdd1a-30de-4571-9714-ea2576c40487
+[01:34:29] [Server thread/INFO]: IfYouCam[/127.171.255.142:35817] logged in with entity id 1202 at (-391.83551385165725, 126.0, -390.6246918814407)
+[01:34:29] [Server thread/INFO]: IfYouCam joined the game
+[01:34:29] [Server thread/INFO]: [voicechat] Received secret request of IfYouCam (20)
+[01:34:29] [Server thread/INFO]: [voicechat] Sent secret to IfYouCam
+[01:34:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 58cfdd1a-30de-4571-9714-ea2576c40487
+[01:34:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 58cfdd1a-30de-4571-9714-ea2576c40487
+[01:34:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player IfYouCam (58cfdd1a-30de-4571-9714-ea2576c40487) successfully connected to voice chat
+[01:35:20] [Server thread/INFO]: IfYouCam lost connection: Disconnected
+[01:35:20] [Server thread/INFO]: IfYouCam left the game
+[01:35:20] [Server thread/INFO]: [voicechat] Disconnecting client IfYouCam
+[01:36:14] [Server thread/INFO]: Stopping the server
+[01:36:14] [Server thread/INFO]: Stopping server
+[01:36:14] [Server thread/INFO]: Saving players
+[01:36:14] [Server thread/INFO]: Saving worlds
+[01:36:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:36:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:36:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:36:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:36:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:36:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:36:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
